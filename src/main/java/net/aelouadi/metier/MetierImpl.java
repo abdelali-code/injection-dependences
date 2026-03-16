@@ -15,7 +15,7 @@ public class MetierImpl implements IMetier{
     @Override
     public double calacul() {
         double t = dao.getData();
-        return t * Math.PI / 2;
+        return t * 2;
     }
 
 

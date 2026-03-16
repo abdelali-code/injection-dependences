@@ -1,0 +1,2 @@
+net.aelouadi.extension.DaoImplV2
+net.aelouadi.metier.MetierImplV2
